@@ -1,0 +1,20 @@
+{
+  "id": "com.kaka.hsl-snippet",
+  "name": "HSL Root Snippet",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "changelogs": "changelog.md",
+  "icon": "icon.png",
+  "files": [],
+  "price": 500,
+  "minVersionCode": 290,
+  "license": "MIT",
+  "keywords": ["css", "hsl", "snippet", "color", "root"],
+  "author": {
+    "name": "Kaka",
+    "email": "",
+    "url": "",
+    "github": ""
+  }
+}
