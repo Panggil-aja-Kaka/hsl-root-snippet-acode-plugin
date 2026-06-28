@@ -73,8 +73,7 @@
 ## 🐛 Bug Report & Feature Request
 
 Found a bug or have an idea?
-**Open an issue here →** [Click here](https://github.com/Panggil-aja-Kaka/hueroot-acode-plugin)
-
+**Open an issue here →** [Click here](https://github.com/Panggil-aja-Kaka/hsl-root-snippet-acode-plugin)
 ---
 
 ## 👤 Author
