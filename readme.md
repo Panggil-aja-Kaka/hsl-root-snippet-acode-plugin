@@ -2,7 +2,7 @@
 
 > **One trigger. Infinite palettes.**
 > Generate your complete HSL `:root` in seconds — pick your color, pick your mode, done.
-
+> **Inspired by the bedimcode** of its time, so you can use it without rewriting each of your variables.
 ---
 
 ## ✨ Features
@@ -74,8 +74,19 @@
 
 Found a bug or have an idea?
 **Open an issue here →** [Click here](https://github.com/Panggil-aja-Kaka/hsl-root-snippet-acode-plugin)
+
 ---
 
+## 🎁 Support my project
+
+If this plugin helps you with your project, consider **buying me a coffee**.
+
+[![Trakteer](https://raw.githubusercontent.com/Panggil-aja-Kaka/support-assets/main/trakteer.png)
+](https://trakteer.id/bayanaka4)[
+![Saweria](https://raw.githubusercontent.com/Panggil-aja-Kaka/support-assets/main/saweria.png)
+](https://saweria.co/BayanakaDev)
+
+---
 ## 👤 Author
 
 **Kaka**

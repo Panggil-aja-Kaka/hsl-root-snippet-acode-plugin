@@ -1,20 +1,20 @@
 {
-  "id": "com.kaka.hsl-snippet",
+  "id": "com.kaka.hsl_snippet",
   "name": "HSL Root Snippet",
   "main": "main.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "readme": "readme.md",
   "changelogs": "changelog.md",
   "icon": "icon.png",
   "files": [],
-  "price": 500,
+  "price": 0,
   "minVersionCode": 290,
   "license": "MIT",
   "keywords": ["css", "hsl", "snippet", "color", "root"],
   "author": {
-    "name": "Kaka",
+    "name": "Bayanaka",
     "email": "",
-    "url": "",
-    "github": ""
+    "url": "https://github.com/Panggil-aja-Kaka/hsl-root-snippet-acode-plugin",
+    "github": "Panggil-aja-Kaka"
   }
 }
