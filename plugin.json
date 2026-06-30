@@ -2,7 +2,7 @@
   "id": "com.kaka.hsl_snippet",
   "name": "HSL Root Snippet",
   "main": "main.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "readme": "readme.md",
   "changelogs": "changelog.md",
   "icon": "icon.png",
