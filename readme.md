@@ -5,11 +5,9 @@
 # HSL Root Snippet (LEGACY)
 
 <img src="https://img.shields.io/badge/License-MIT-pink?style=plastic&logo=Robinhood&logoColor=%238beb73&logoSize=Auto&color=%238beb73">
-<img src="https://img.shields.io/badge/Support%20%3A-Only%20older%20version-blue?style=plastic&logo=acode&logoColor=%238beb73&logoSize=auto&color=%238beb73
-">
+<img src="https://img.shields.io/badge/Support%20%3A-Only%20older%20version-blue?style=plastic&logo=acode&logoColor=%238beb73&logoSize=auto&color=%238beb73">
 <br></br>
-<img src="https://img.shields.io/badge/Version%20%3A-v1.0.1-blue?style=plastic&logo=github&logoColor=%238beb73&logoSize=auto&color=%238beb73
-">
+<img src="https://img.shields.io/badge/Version%20%3A-v1.0.1-blue?style=plastic&logo=github&logoColor=%238beb73&logoSize=auto&color=%238beb73">
 
 ### ONE TRIGGER | INFINITE PALLETES
 
