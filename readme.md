@@ -156,8 +156,7 @@ Open Source Developer & Acode Plugin Creator
 <br>
 
 <a href="https://github.com/Panggil-aja-Kaka">
-  <img src="https://img.shields.io/badge/Bayanaka-darkgrey?style=flat&logo=Github&logoColor=White&logoSize=Auto&labelColor=%232f2f2f&color=%232f2f2f&link=https%3A%2F%2Fgithub.com%2FPanggil-aja-Kaka
-		">
+  <img src="https://img.shields.io/badge/Bayanaka-darkgrey?style=flat&logo=Github&logoColor=White&logoSize=Auto&labelColor=%232f2f2f&color=%232f2f2f&link=https%3A%2F%2Fgithub.com%2FPanggil-aja-Kaka">
 </a>
 
 </div>
